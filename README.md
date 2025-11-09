@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hi 👋, I'm Ajit Kumar ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-<!--
-**deadlyjack/deadlyjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[https://ajitkumar.dev](https://ajitkumar.dev)**
 
-Here are some ideas to get you started:
+[![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlyjack&show_icons=true&theme=radical)](https://github.com/deadlyjack) [![GitHub Streak](https://streak-stats.demolab.com/?user=deadlyjack&theme=radical)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 style="text-align: left; color: #333; font-family: Arial, sans-serif; margin-bottom: 15px;">Connect with me:</h3>
+<p style="text-align: left; margin-bottom: 20px;">
+<a href="https://github.com/deadlyjack" target="blank" style="text-decoration: none; margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="deadlyjack" height="30" width="40" style="vertical-align: middle;" /></a>
+<a href="https://linkedin.com/in/ajit-kumar-346b26165" target="blank" style="text-decoration: none; margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit-kumar-346b26165" height="30" width="40" style="vertical-align: middle;" /></a>
+<a href="https://stackoverflow.com/users/9921464/ajit-kumar" target="blank" style="text-decoration: none; margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9921464/ajit-kumar" height="30" width="40" style="vertical-align: middle;" /></a>
+<a href="https://twitter.com/ajitkumar_dev" target="blank" style="text-decoration: none; margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajitkumar_dev" height="30" width="40" style="vertical-align: middle;" /></a>
+<a href="https://discord.gg/ajitkumar.dev" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ajitkumar.dev" height="30" width="40" style="vertical-align: middle;" /></a>
+</p>
+
+<h3 style="text-align: left; color: #333; font-family: Arial, sans-serif; margin-bottom: 15px; margin-top: 30px;">Languages and Tools:</h3>
+<p style="text-align: left; line-height: 50px;"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/apachecordova" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://cdn.simpleicons.org/apachecordova/E8E8E8" alt="apachecordova" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/puppeteer" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" style="vertical-align: middle;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 8px;"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40" style="vertical-align: middle;"/> </a>
+</p>
+
