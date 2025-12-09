@@ -1,11 +1,6 @@
-# Hi 👋, I'm Ajit Kumar ![](https://komarev.com/ghpvc/?username=your-github-username)
+# Hi 👋, I'm Ajit Kumar ![](https://komarev.com/ghpvc/?username=deadlyjack)
 
 **[https://ajitkumar.dev](https://ajitkumar.dev)**
-
-<div style="display: flex">
-  <img style="width: 51%;" src="https://streak-stats.demolab.com/?user=deadlyjack&theme=radical" alt="Streaks" />
-  <img style="width: 48.5%;" src="https://github-readme-stats.vercel.app/api?username=deadlyjack&show_icons=true&theme=radical" alt="Stats" />
-</div>
 
 <h3 style="text-align: left; color: #333; font-family: Arial, sans-serif; margin-bottom: 15px;">Connect with me:</h3>
 <p style="text-align: left; margin-bottom: 20px;">
