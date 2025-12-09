@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ajit Kumar ![](https://komarev.com/ghpvc/?username=deadlyjack)
+# Hi 👋, I'm Ajit Kumar
 
 **[https://ajitkumar.dev](https://ajitkumar.dev)**
 
