@@ -19,7 +19,7 @@
 
 ### 🚀 Top Projects
 
-| **[Acode Editor](https://acode.app)** | **[Better Keep Notes](https://betterkeep.app)** | **[Foxbiz POS](https://foxbiz.app)** |
+| **[Acode Editor](https://acode.app)** | **[Better Keep Notes](https://betterkeep.app/welcome)** | **[Foxbiz POS](https://foxbiz.app)** |
 | :---: | :---: | :---: |
 | <img src="https://acode.app/logo.svg" width="100" /> | <img src="https://betterkeep.app/icons/logo.svg" width="100" /> | <img src="https://foxbiz.app/logo.png" width="100" /> |
 | A powerful code editor for Android. <br> **[View Source](https://github.com/acode-foundation/acode)** | A modern note-taking experience. <br> **[View Source](https://github.com/foxbiz/better-keep)** | Comprehensive Point of Sale system. <br> **[Visit Site](https://foxbiz.app)** |
